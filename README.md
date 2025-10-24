@@ -1,3 +1,5 @@
+APP LINK : https://rain-prediction-c8c6wgk6fij8niwf8s8ibb.streamlit.app/
+
 # Rain Prediction Project
 
 This project predicts whether it will rain tomorrow in major US cities using weather data and machine learning. It includes an end-to-end workflow from data preprocessing, modeling, to a user-friendly web app for instant predictions.
